@@ -16,7 +16,7 @@ const navSlide = () => {
             }
         });
 
-        // Burger Animation (buat jadi silang)
+        // Burger Animation
         burger.classList.toggle('toggle');
     });
 
